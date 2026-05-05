@@ -23,7 +23,8 @@ subjectmatter:
 - phonograms
 - film fixations
 - broadcasts
-compensation:
+- press publications
+  compensation:
 - no compensation required
 attribution: 
 - no attribution required
@@ -32,5 +33,5 @@ otherConditions:
 - the reproductions must be an integral and essential part of a technological process
 - the reproduction must have no independent economic significance
 remarks: "The exception extends to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' rights (§ 86), but does not extend to database makers' (§ 94) rights."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
